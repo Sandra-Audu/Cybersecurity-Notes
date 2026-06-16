@@ -14,4 +14,4 @@ Welcome to my cybersecurity learning journey.
 - How The Web Works
 
 ## Career Goal
-Become a SOC Analyst and secure a remote cybersecurity internship.
+Become a SOC Analyst specializing in Security Operations and Incident Response.
