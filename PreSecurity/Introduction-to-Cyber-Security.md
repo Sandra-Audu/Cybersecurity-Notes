@@ -1,81 +1,51 @@
 # Introduction to Cyber Security
 
-## What is Cyber Security?
+## Overview
 
-Cyber Security is the practice of protecting computers, networks, systems, and data from unauthorized access, attacks, theft, or damage.
+This module introduced the fundamentals of cybersecurity, including offensive security, defensive security, and the various career paths available within the industry.
 
-## Why Cyber Security Matters
+## Offensive Security
 
-- Protects sensitive information
-- Prevents financial losses
-- Protects privacy
-- Helps organizations maintain trust
-- Defends critical infrastructure
+Offensive security focuses on identifying and exploiting vulnerabilities before malicious attackers can. During the practical exercise, I learned how hidden web pages can be discovered and how attackers may gain unauthorized access to systems.
 
-## Types of Cyber Security
+### Key Concepts
+- Vulnerability discovery
+- Enumeration
+- Web application security
+- Ethical hacking mindset
 
-### Network Security
-Protects networks from unauthorized access and attacks.
+## Defensive Security
 
-### Application Security
-Protects software and applications from vulnerabilities.
+Defensive security focuses on protecting systems, detecting threats, and responding to incidents.
 
-### Cloud Security
-Protects cloud-based systems, services, and data.
+### Key Concepts
+- Security monitoring
+- Threat detection
+- Incident response
+- Firewall rules
+- Attack containment
 
-### Endpoint Security
-Protects devices such as laptops, desktops, and mobile phones.
+## Cyber Security Careers
 
-## Common Cyber Threats
+I learned about several cybersecurity roles and how they work together during a security incident.
 
-### Malware
-Malicious software designed to damage or compromise systems.
-
-Examples:
-- Viruses
-- Worms
-- Trojans
-- Ransomware
-
-### Phishing
-Fraudulent attempts to steal sensitive information through emails, messages, or fake websites.
-
-### Social Engineering
-Manipulating people into revealing confidential information.
-
-### Password Attacks
-Attempts to gain unauthorized access by cracking or guessing passwords.
-
-## The CIA Triad
-
-### Confidentiality
-Ensuring information is only accessible to authorized users.
-
-### Integrity
-Ensuring information remains accurate and unaltered.
-
-### Availability
-Ensuring systems and data are accessible when needed.
-
-## Cyber Security Career Paths
-
+### Roles Explored
 - SOC Analyst
-- Security Engineer
 - Penetration Tester
 - Digital Forensics Analyst
-- Incident Responder
-- Cloud Security Engineer
+- Security Engineer
 
 ## What I Learned
 
-- Cyber Security is more than hacking.
-- People, processes, and technology all play important roles.
-- The CIA Triad forms the foundation of information security.
-- Attackers often exploit human mistakes as well as technical weaknesses.
+- Cybersecurity is a team effort involving multiple specializations.
+- Attackers and defenders have different objectives and responsibilities.
+- Security monitoring is critical for detecting threats early.
+- Containment is often the first priority during an active attack.
+- Understanding both offensive and defensive perspectives improves security awareness.
 
-## Real-World Application
+## Career Interest
 
-Organizations use cyber security controls to protect customer data, prevent breaches, and respond to security incidents.
+My primary interest is pursuing a career as a SOC Analyst, with future interests in Cloud Security and Digital Forensics.
 
 ## Date Completed
 
