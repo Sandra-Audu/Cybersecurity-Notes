@@ -1,0 +1,123 @@
+# How The Web Works
+
+## Overview
+
+This module explored how websites function behind the scenes, including DNS, HTTP/HTTPS, web servers, web technologies, and common web security vulnerabilities.
+
+## DNS (Domain Name System)
+
+DNS translates human-friendly domain names into IP addresses that computers can understand.
+
+### Topics Covered
+- Domain hierarchy
+- Top-Level Domains (TLDs)
+- Second-Level Domains
+- Subdomains
+- DNS Record Types (A, AAAA, CNAME, MX, TXT)
+- DNS Request Process
+- DNS Caching and TTL
+
+## HTTP and HTTPS
+
+HTTP is the protocol used for communication between browsers and web servers.
+
+HTTPS adds encryption to protect data in transit and verify server authenticity.
+
+### Topics Covered
+- URLs and their components
+- HTTP Requests and Responses
+- HTTP Headers
+- HTTP Methods
+- HTTP Status Codes
+
+### Common HTTP Methods
+- GET
+- POST
+- PUT
+- DELETE
+
+### Common Status Codes
+- 200 OK
+- 301 Moved Permanently
+- 302 Found
+- 400 Bad Request
+- 401 Unauthorized
+- 403 Forbidden
+- 404 Not Found
+- 500 Internal Server Error
+- 503 Service Unavailable
+
+## Cookies
+
+Cookies are small pieces of data stored by browsers to help websites remember users and maintain sessions.
+
+### Uses
+- Authentication
+- User preferences
+- Session management
+
+## Website Architecture
+
+### Front End
+The part of a website users interact with directly.
+
+Technologies:
+- HTML
+- CSS
+- JavaScript
+
+### Back End
+The server-side logic that processes requests and generates responses.
+
+## Web Security Concepts
+
+### Sensitive Data Exposure
+Occurs when confidential information is accidentally exposed within source code or frontend content.
+
+### HTML Injection
+Occurs when user input is not properly sanitized and malicious HTML is rendered by the browser.
+
+## Additional Web Components
+
+### Load Balancers
+Distribute traffic across multiple servers and improve availability.
+
+### Content Delivery Networks (CDNs)
+Deliver static content from geographically closer servers for improved performance.
+
+### Databases
+Store and retrieve application data.
+
+### Web Application Firewalls (WAFs)
+Protect web applications by filtering malicious requests.
+
+## Web Servers
+
+### Common Web Servers
+- Apache
+- Nginx
+- IIS
+- NodeJS
+
+### Concepts Covered
+- Virtual Hosts
+- Static Content
+- Dynamic Content
+- Backend Scripting Languages
+
+## What I Learned
+
+- DNS acts as the internet's phonebook.
+- HTTP and HTTPS enable communication between browsers and web servers.
+- Cookies help websites remember users.
+- Frontend and backend technologies work together to create web applications.
+- Poor input validation can lead to security vulnerabilities.
+- Load balancers, CDNs, databases, and WAFs help websites scale and remain secure.
+
+## Real-World Application
+
+Understanding how websites work is essential for SOC Analysts because many cyberattacks target web applications. Knowledge of DNS, HTTP traffic, cookies, web servers, and common vulnerabilities helps analysts detect and investigate security incidents.
+
+## Date Completed
+
+June 2026
