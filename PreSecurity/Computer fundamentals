@@ -1,0 +1,94 @@
+# 🚀 Module 4 Complete: Computer Fundamentals, Client-Server Basics, Virtualization & Cloud Computing
+
+## Overview
+
+Completed another major milestone in my cybersecurity learning journey on TryHackMe.
+
+This module focused on understanding the foundations that power modern computing environments, networking, virtualization, and cloud infrastructure.
+
+---
+
+## 📚 Topics Covered
+
+### 🖥️ Computer Fundamentals
+- Core computer components and their functions
+- CPU, RAM, Storage, Motherboard, PSU
+- The computer boot process
+- UEFI/BIOS and POST
+- How operating systems load into memory
+
+### 💻 Computer Types
+- Laptops
+- Desktops
+- Workstations
+- Servers
+- Smartphones
+- Tablets
+- IoT Devices
+- Embedded Systems
+
+### 🌐 Client-Server Basics
+- Understanding the Client-Server Model
+- DNS (Domain Name System)
+- Ports and Protocols
+- HTTP Requests and Responses
+- GET Requests
+- Web Communication Fundamentals
+
+### 📦 Virtualization Basics
+- Why virtualization exists
+- Hypervisors (Type 1 & Type 2)
+- Virtual Machines (VMs)
+- Containers
+- Docker Fundamentals
+- VM Management and Resource Allocation
+
+### ☁️ Cloud Computing Fundamentals
+- Public Cloud
+- Private Cloud
+- Hybrid Cloud
+- IaaS, PaaS, SaaS
+- EC2 Instances
+- Cloud Scalability
+- Cost Optimization
+- High Availability
+
+---
+
+## 🔑 Key Takeaways
+
+- Understanding how computers work is essential before learning advanced cybersecurity concepts.
+- The Client-Server model forms the backbone of modern internet communication.
+- Virtualization allows multiple isolated systems to run on a single physical machine.
+- Containers provide lightweight environments for application deployment.
+- Cloud computing enables scalable, reliable, and cost-effective infrastructure.
+
+---
+
+## 🎯 Lessons Learned
+
+"Trying to defend what you don't understand is like defending a castle you've never seen."
+
+Cybersecurity starts with understanding the technology you're protecting.
+
+Every advanced concept in security is built on strong fundamentals.
+
+---
+
+## 🏆 Progress Update
+
+✅ Computer Fundamentals
+
+✅ Computer Types
+
+✅ Client-Server Basics
+
+✅ Virtualization Basics
+
+✅ Cloud Computing Fundamentals
+
+➡️ Next Stop: Operating Systems
+
+---
+
+#TryHackMe #CyberSecurity #CloudComputing #Virtualization #Networking #LearningInPublic #SOCAnalyst #TechJourney
