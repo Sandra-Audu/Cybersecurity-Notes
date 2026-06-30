@@ -10,10 +10,11 @@ Welcome to my cybersecurity learning journey.
 - Introduction to Cyber Security
 - Network Fundamentals
 - How The Web Works
-- Computer Fundamentals 
+- Computer Fundamentals
+- Operating Systems 
 
 ## Upcoming Modules
-- Operating Systems
+- Software Basics
 
 ## Career Goal
 Become a SOC Analyst specializing in Security Operations and Incident Response.
