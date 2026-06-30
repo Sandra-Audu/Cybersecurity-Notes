@@ -1,0 +1,53 @@
+# Operating Systems
+
+## Overview
+
+This module introduced the fundamentals of operating systems and their role in managing computer hardware, software, memory, processes, users, and files. It also explored the differences between Windows and Linux and why operating systems are a critical part of cybersecurity.
+
+## Operating Systems
+
+### Topics Covered
+- What an Operating System is
+- Operating System components
+- User mode and Kernel mode
+- Processes and Threads
+- Memory management
+- File systems
+- Users and Permissions
+
+## Windows and Linux
+
+### Topics Covered
+- Windows architecture
+- Linux architecture
+- Command Line Interface (CLI)
+- Graphical User Interface (GUI)
+- File structures
+- Basic system administration
+
+## Security Concepts
+
+### Topics Covered
+- User accounts
+- Privilege levels
+- Access control
+- Authentication
+- System updates
+- Security best practices
+
+## What I Learned
+
+- Operating systems act as the bridge between hardware, software, and users.
+- The kernel is responsible for managing system resources and communicating directly with hardware.
+- Processes and threads allow multiple tasks to run efficiently.
+- User permissions help prevent unauthorized access to systems.
+- Windows and Linux have different architectures, but both play important roles in enterprise environments.
+- A solid understanding of operating systems is essential for anyone pursuing cybersecurity.
+
+## Real-World Application
+
+Operating systems are at the heart of every computer and server. Understanding how they manage processes, files, users, and permissions helps cybersecurity professionals investigate incidents, secure systems, and identify potential vulnerabilities.
+
+## Date Completed
+
+June 2026
