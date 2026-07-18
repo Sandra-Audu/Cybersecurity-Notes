@@ -1,0 +1,44 @@
+# Software Basics
+
+## Overview
+
+This module introduced the fundamental concepts of software and its role in enabling computer systems to perform specific tasks. It explored how software interacts with hardware, the differences between system and application software, and why understanding software is essential for cybersecurity.
+
+## Topics Covered
+
+### Software Fundamentals
+- What software is
+- System software vs. application software
+- Operating systems
+- Utilities
+- Device drivers
+
+### Applications and Processes
+- How applications run
+- Software installation
+- Software updates
+- Background services
+
+### Software Security
+
+- Software vulnerabilities
+- Patch management
+- Software licensing
+- Trusted software sources
+- Security best practices
+
+## What I Learned
+
+- Software provides the instructions that enable hardware to perform useful tasks.
+- System software manages the computer, while application software helps users accomplish specific objectives.
+- Keeping software updated is one of the simplest and most effective ways to reduce security risks.
+- Running software only from trusted sources helps protect systems from malware and other threats.
+- Understanding how software operates provides a stronger foundation for securing modern computing environments.
+
+## Real-World Application
+
+Every organization relies on software to deliver services and manage daily operations. Understanding how software is installed, maintained, and secured helps cybersecurity professionals identify vulnerabilities, reduce attack surfaces, and protect systems against emerging threats.
+
+## Date Completed
+
+July 2026
