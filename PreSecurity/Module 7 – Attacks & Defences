@@ -1,0 +1,48 @@
+# Module 7 – Attacks & Defences
+
+## Key Topics Covered
+
+### The CIA Triad
+- Confidentiality
+- Integrity
+- Availability
+- Applying the CIA mindset when assessing security incidents
+
+### Cryptography Concepts
+- Plaintext vs Ciphertext
+- Encryption keys and algorithms
+- Symmetric encryption
+- Asymmetric encryption
+- HTTPS and digital certificates
+- Key distribution problem
+
+### Offensive Security
+- Ethical hacking principles
+- Red Team vs Penetration Testing
+- Vulnerabilities and exploits
+- Enumeration
+- Authentication attacks
+- Dictionary attacks
+- Hands-on experience with Gobuster and Hydra
+
+### Defensive Security
+- Blue Team responsibilities
+- Understanding client infrastructure
+- Visibility and monitoring
+- Prevention
+- Detection
+- Mitigation
+- Incident response
+- Layered security
+
+## Key Takeaways
+
+This module introduced the security mindset from both offensive and defensive perspectives.
+
+Understanding how attackers identify weaknesses helps defenders build stronger security controls, while cryptography demonstrates how confidentiality and integrity are preserved during digital communication.
+
+One of my biggest lessons from this module is that cybersecurity is not just about preventing attacks—it's about protecting information through a balance of people, processes, and technology.
+
+---
+
+*"A strong defender understands both how systems work and how attackers think."*
