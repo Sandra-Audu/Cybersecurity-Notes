@@ -4,17 +4,13 @@
 Welcome to my cybersecurity learning journey.
 
 ## Current Learning Path
-- TryHackMe Pre Security
+- Coursera Cisco Security Operation Center.
 
-## Completed Modules
-- Introduction to Cyber Security
-- Network Fundamentals
-- How The Web Works
-- Computer Fundamentals
-- Operating Systems
-- Software Basics
+## Completed Courses/ Modules
+- Tryhackme Presecurity Path
+  
 ## Upcoming Modules
-- Attacks & Defences
+- Introduction to Security Operations Center
 
 ## Career Goal
 Become a SOC Analyst specializing in Security Operations and Incident Response.
