@@ -10,7 +10,7 @@ I use this repository to document key concepts, hands-on labs, lessons learned, 
 
 ## 🛣️ Learning Path
 
-**Pre-Security → Cyber Security 101 → Advanced Security Learning → Practical Projects**
+**Pre-Security → Cyber Security 101 → SOC 1 → SOC 2 → JR PEN tester → Web APP Pentesting → Security Engineer → DevSecOps → Defending AWS → AI security → Advanced Security Learning → Practical Projects**
 
 ### ✅ Completed
 **TryHackMe — Pre-Security**
@@ -20,18 +20,22 @@ Built a foundation in computer fundamentals, networking, how the web works, Linu
 ### 🚧 Currently Learning
 **TryHackMe — Cyber Security 101**
 
-Building on my Pre-Security foundation through:
-
-- Linux, Windows & Active Directory
-- Command Line & PowerShell
-- Networking & Cryptography
-- Exploitation & Web Hacking
-- Offensive & Defensive Security
-- Digital Forensics & Incident Response
-- Security Solutions & OWASP Top 10
+Building on my Pre-Security foundation through the following modules: 
+- Linux Fundamentals
+- Command Line
+- Networking
+- Cryptography
+- Exploitation Basics
+- Web Hacking
+- Offensive Security Tooling
+- Defensive Security
+- Security Solutions
+- Defensive Security Tooling
+- Building Your Cyber Security Career
+- OWASP Top 10 (2025)
 
 ### ⏳ Next
-** Intermediate to Advanced Cybersecurity Learning & Practical Projects**
+** Intermediate (SOC 1, SOC 2, JR PEN tester, web APP testing and so on) to Advanced Cybersecurity Learning & Practical Projects**
 
 ---
 
